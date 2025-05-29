@@ -5,14 +5,23 @@
 
 ### 📌 Projects
 
-- 💼 **Portfolio** – Personal website built with HTML, CSS, JS, Bootstrap  
-- 📢 **Job Board** – Job listing platform using React, Node.js, Express, MongoDB  
+- 💼 **Portfolio** – Personal website built with HTML, CSS, JS.  
+- 📢 **Job Board** – Job listing platform using React,.
 - ✅ **To-Do List** – Task manager with localStorage using JS  
 - ☁️ **Weather App** – Real-time data via OpenWeather API  
 - 🗣️ **Voice Versa** – Python voice assistant using Flask + JS  
 - 🧠 **Quiz App** – MCQ quiz using JS with scoring & timer  
 
 ---
+
+### 📫 Connect with Me
+
+- 📧 Email: shubhamk77329@gmail.com
+- 💼 LinkedIn: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  ](https://www.linkedin.com/in/shubham-kumar-5a85032a6/)
+- 🌐 Portfolio: [[your-portfolio-link.com](https://your-portfolio-link.com)](https://shubhamkumar785.github.io/Shubham-Portfolio/)
+
+---
+
 
 ### 🧰 Tech Stack
 
@@ -53,14 +62,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamPathakDev&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 📫 Connect with Me
-
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
 
