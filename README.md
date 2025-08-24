@@ -17,7 +17,7 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: shubhamk77329@gmail.com
+- 📧 Email: shubhammpathak566@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/shubham-kumar-5a85032a6/
 - 🌐 Portfolio: https://shubhamkumar785.github.io/Shubham-Portfolio/
 
