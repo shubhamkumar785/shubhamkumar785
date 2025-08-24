@@ -6,11 +6,12 @@
 ### 📌 Projects
 
 - 💼 **Portfolio** – Personal website built with HTML, CSS, JS.  
-- 📢 **Job Board** – Job listing platform using React.
+- 📚 **Library Management System** – Desktop app using Java (OOPs, SQL, Swing) for managing books and records.  
 - ✅ **To-Do List** – Task manager with localStorage using JS.  
 - ☁️ **Weather Application** – Real-time data via OpenWeather API.  
 - 🗣️ **Voice Versa** – Python voice assistant using Flask + JS.  
-- 🧠 **Quiz Application** – MCQ quiz using JS with scoring & timer.  
+- 🎮 **Snake Game** – Classic arcade game built with Java (OOPs, Swing).  
+
 
 ---
 
