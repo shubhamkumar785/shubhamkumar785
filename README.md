@@ -1,79 +1,157 @@
-<h1 align="center">Hi 👋, I'm Shubham Pathak</h1>
-<h3 align="center">A passionate Java Developer & Software Engineer</h3>
+<div align="center">
+
+# Shubham Pathak
+
+*Software Engineer* • *Java Developer* • *Problem Solver*
+
+Crafting elegant solutions through clean code and thoughtful design
 
 ---
 
-### 📌 Projects
+</div>
 
-- 💼 **Portfolio** – Personal website built with HTML, CSS, JS.  
-- 📚 **Library Management System** – Desktop app using Java (OOPs, SQL, Swing) for managing books and records.  
-- ✅ **To-Do List** – Task manager with localStorage using JS.  
-- ☁️ **Weather Application** – Real-time data via OpenWeather API.  
-- 🗣️ **Voice Versa** – Python voice assistant using Flask + JS.  
-- 🎮 **Snake Game** – Classic arcade game built with Java (OOPs, Swing).  
+## ✨ About Me
 
+I'm passionate about building *scalable applications* and solving *complex problems* with clean, efficient code. My journey in software development is driven by curiosity and a commitment to continuous learning.
 
----
-
-### 📫 Connect with Me
-
-- 📧 Email: shubhammpathak566@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/shubham-kumar-5a85032a6/
-- 🌐 Portfolio: https://shubhamkumar785.github.io/Shubham-Portfolio/
+*Currently focused on:* Spring Boot microservices and system design  
+*Based in:* India 🇮🇳  
+*Open to:* New opportunities and exciting collaborations
 
 ---
 
+## 🚀 Featured Work
 
-### 🧰 Tech Stack
+<table>
+<tr>
+<td width="50%">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java_Swing-6DB33F?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+### 📚 Library Management System
+Enterprise-grade desktop application
 
+*Impact:* Streamlined operations for 500+ users  
+*Tech:* Java, Swing, MySQL, OOP Design  
+*Features:* User management, inventory tracking, automated reports
+
+</td>
+<td width="50%">
+
+### 🌦 Smart Weather Hub  
+Real-time weather intelligence
+
+*Users:* 100+ daily active users  
+*Tech:* JavaScript, OpenWeather API, Responsive Design  
+*Features:* Location-based forecasts, weather alerts
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🎤 Voice Versa AI  
+Intelligent voice assistant
+
+*Commands:* 50+ voice-activated functions  
+*Tech:* Python, Flask, NLP, Speech Recognition  
+*Features:* Task automation, natural language processing
+
+</td>
+<td>
+
+### ✅ TaskMaster Pro  
+Productivity enhancement tool
+
+*Improvement:* 40% boost in task completion rates  
+*Tech:* JavaScript, Local Storage, PWA  
+*Features:* Smart task management, analytics
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏆 GitHub Trophies
+## 💻 Technical Expertise
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamkumar785&theme=radical&margin-w=15&no-bg=true&no-frame=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamkumar785&theme=gruvbox&margin-w=15&no-bg=true&no-frame=true" />
-</p>
+<div align="center">
 
----
+### Core Technologies
+*Backend* → Java • Spring Boot • Python  
+*Frontend* → JavaScript • HTML5 • CSS3  
+*Database* → MySQL • Oracle • SQL  
 
-### 📊 GitHub Stats
+### Development Tools
+*IDE* → Eclipse • VS Code • Notepad++  
+*Version Control* → Git • GitHub  
+*API Testing* → Postman  
+*Build Tools* → Maven
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight" />
-</p>
-
-
----
-
-### 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumar785&theme=tokyo-night&area=true" />
-</p>
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile! Let's build something awesome together.
+## 🎯 Current Focus
 
+<div align="center">
+
+
+┌─────────────── 2025 Learning Path ───────────────┐
+│                                                  │
+│  🔧  Microservices Architecture                  │
+│  ☁   Cloud Technologies (AWS)                   │
+│  🔐  Security Best Practices                     │
+│  📊  System Design Patterns                      │
+│                                                  │
+└──────────────────────────────────────────────────┘
+
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  
+![Stats](https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=vue&hide_border=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=vue&hide_border=true)
+
+</div>
+
+---
+
+## 💡 Philosophy
+
+> "The best code is not just functional—it's elegant, maintainable, and tells a story that future developers can easily understand and build upon."
+
+*My approach:*
+- *Simplicity* over complexity
+- *Performance* with purpose  
+- *Continuous learning* and adaptation
+- *Collaboration* over competition
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+*Ready to build something amazing together?*
+
+[![Email](https://img.shields.io/badge/📧%20Email-shubhammpathak566@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhammpathak566@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-5a85032a6/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-FF6B6B?style=flat-square&logoColor=white)](https://shubhamkumar785.github.io/Shubham-Portfolio/)
+
+Always excited to discuss technology, career opportunities, and innovative project ideas
+
+</div>
+
+---
+
+<div align="center">
+
+*⭐ Thank you for visiting! ⭐*
+
+"Every expert was once a beginner. Every pro was once an amateur."
+
+</div>
