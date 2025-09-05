@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Pathak</h1>
-<h3 align="center">A passionate Software Engineer & frontend developer</h3>
+<h3 align="center">A passionate Java Developer & Software Engineer</h3>
 
 ---
 
