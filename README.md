@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shubham Pathak
+# Shubham Kumar
 
 **Software Engineer** • **Java Developer** • **Problem Solver**
 
