@@ -157,7 +157,7 @@ I'm passionate about building **scalable applications** and solving **complex pr
 
 <div align="center">
 
-```
+<pre>
 ┌─────────────── 2025 Java Learning Path ───────────────┐
 │                                                       │
 │  ☕  Core Java (OOPs, Collections, Exception Handling) │
@@ -168,13 +168,11 @@ I'm passionate about building **scalable applications** and solving **complex pr
 │  🧮  DSA in Java (LeetCode, Placement Prep)           │
 │                                                       │
 └───────────────────────────────────────────────────────┘
-
-```
+</pre>
 
 </div>
 
 ---
-
 ## 📊 GitHub Activity  
 
 <div align="center">
