@@ -146,9 +146,8 @@ I'm passionate about building **scalable applications** and solving **complex pr
 
 <div align="center">
 
-**Authentication** → OAuth2 • JWT  
-**Testing** → JUnit • Mockito • Selenium  
-**Collaboration** → JIRA • Trello • Slack  
+**Authentication** → JWT  
+**Testing** → JUnit   
 **Operating Systems** → Windows • Linux • Ubuntu  
 
 </div>
@@ -159,14 +158,17 @@ I'm passionate about building **scalable applications** and solving **complex pr
 <div align="center">
 
 ```
-┌─────────────── 2024 Learning Path ───────────────┐
-│                                                  │
-│  🔧  Microservices Architecture                  │
-│  ☁️   Cloud Technologies (AWS)                   │
-│  🔐  Security Best Practices                     │
-│  📊  System Design Patterns                      │
-│                                                  │
-└──────────────────────────────────────────────────┘
+┌─────────────── 2025 Java Learning Path ───────────────┐
+│                                                       │
+│  ☕  Core Java (OOPs, Collections, Exception Handling) │
+│  🏗️  Advanced Java (JDBC, Servlets, JSP)              │
+│  🌐  Spring & Spring Boot (REST APIs, MVC)             │
+│  🗄️  Database Integration (MySQL, Hibernate, JPA)      │
+│  📊  System Design with Java                          │
+│  🧮  DSA in Java (LeetCode, Placement Prep)           │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+
 ```
 
 </div>
