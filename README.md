@@ -17,6 +17,7 @@
 🌱 Currently, I’m diving deeper into Spring & Spring Boot for building scalable REST APIs, exploring Hibernate & JPA for database integration, and strengthening my DSA skills in Java to prepare for challenging problem-solving scenarios.
 
 💡 What drives me is the ability to transform ideas into clean, efficient, and impactful applications, while continuously learning and growing as a developer.
+
 **Currently focused on:** Spring Boot microservices and system design  
 **Based in:** India 🇮🇳  
 **Open to:** New opportunities and exciting collaborations
