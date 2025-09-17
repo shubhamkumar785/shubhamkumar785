@@ -78,12 +78,9 @@ I'm passionate about building **scalable applications** and solving **complex pr
 **Backend**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)  
 
 **Frontend**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
@@ -91,7 +88,6 @@ I'm passionate about building **scalable applications** and solving **complex pr
 **Database**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 </div>
 
@@ -104,6 +100,7 @@ I'm passionate about building **scalable applications** and solving **complex pr
 **IDE**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) 
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
 
@@ -113,7 +110,8 @@ I'm passionate about building **scalable applications** and solving **complex pr
 
 **API Testing**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
+![OpenWeather API](https://img.shields.io/badge/OpenWeather_API-FFA500?style=for-the-badge&logo=cloud&logoColor=white)
+
 
 **Build Tools**  
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) 
@@ -128,7 +126,7 @@ I'm passionate about building **scalable applications** and solving **complex pr
 <div align="center">
 
 💡 **Mastered Concepts**  
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Graphs` • `HashMaps` • `Heaps` • `Tries`  
+`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Graphs` • `HashMaps` • `Heaps` • `ArrayList`  
 
 ⚡ **Problem Solving Techniques**  
 `Recursion` • `Divide & Conquer` • `Greedy` • `Dynamic Programming`  
@@ -187,7 +185,7 @@ I'm passionate about building **scalable applications** and solving **complex pr
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumar785&theme=tokyonight&hide_border=true)  
 
 <!-- Contribution Snake -->
-![Snake animation](https://github.com/shubhamkumar785/shubhamkumar785/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/shubhamkumar785/shubhamkumar785/blob/output/snake.svg)
 
 </div>
 
