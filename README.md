@@ -24,57 +24,6 @@
 
 ---
 
-## 🚀 Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-### 📚 Library Management System
-*Enterprise-grade desktop application*
-
-**Impact:** Streamlined operations for 500+ users  
-**Tech:** Java, Swing, MySQL, OOP Design  
-**Features:** User management, inventory tracking, automated reports
-
-</td>
-<td width="50%">
-
-### 🌦️ Smart Weather Hub  
-*Real-time weather intelligence*
-
-**Users:** 100+ daily active users  
-**Tech:** JavaScript, OpenWeather API, Responsive Design  
-**Features:** Location-based forecasts, weather alerts
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 🎤 Voice Versa AI  
-*Intelligent voice assistant*
-
-**Commands:** 50+ voice-activated functions  
-**Tech:** Python, Flask, NLP, Speech Recognition  
-**Features:** Task automation, natural language processing
-
-</td>
-<td>
-
-### ✅ TaskMaster Pro  
-*Productivity enhancement tool*
-
-**Improvement:** 40% boost in task completion rates  
-**Tech:** JavaScript, Local Storage, PWA  
-**Features:** Smart task management, analytics
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🚀 Core Technologies  
 
 <div align="center">
