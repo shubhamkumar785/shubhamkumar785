@@ -138,7 +138,7 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumar785&theme=tokyonight&hide_border=true)  
 
 <!-- Contribution Snake -->
-![Snake animation](https://github.com/YOUR_USERNAME/shubhamkumar785/blob/output/github-contribution-grid-snake.svg)
+![GitHub contributions](https://ghchart.rshah.org/shubhamkumar785)
 
 
 </div>
