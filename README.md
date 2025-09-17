@@ -81,10 +81,24 @@ I'm passionate about building **scalable applications** and solving **complex pr
 **Database** → MySQL • Oracle • SQL  
 
 ### Development Tools
-**IDE** → Eclipse • VS Code  
+**IDE** → Eclipse • VS Code  • Notepad++ • jetBrain
 **Version Control** → Git • GitHub  
-**API Testing** → Postman  
-**Build Tools** → Maven
+**API Testing** → Postman  • openWeather API
+**Build Tools** → Maven • Web Dev
+
+---
+
+### 📊 Data Structures & Algorithms (DSA)  
+- Arrays • Strings • Linked Lists • Stacks • Queues  
+- Trees • Graphs • HashMaps • Heaps • ArrayList  
+- Recursion • Divide & conquer Algorithm • Greedy Algorithms  
+- Problem Solving on **LeetCode • GeeksforGeeks • HackerRank**  
+
+---
+### ⚡ Others  
+**Authentication** → JWT  
+**Testing** → JUnit   
+**Operating Systems** → Windows • Linux • Ubuntu
 
 </div>
 
