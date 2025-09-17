@@ -12,8 +12,11 @@
 
 ## ✨ About Me
 
-I'm passionate about building **scalable applications** and solving **complex problems** with clean, efficient code. My journey in software development is driven by curiosity and a commitment to continuous learning.
+🚀 My journey as a Java Developer started with mastering Core Java fundamentals — OOPs, collections, and exception handling. Over time, I expanded into Advanced Java with JDBC, Servlets, and JSP, which gave me the foundation to build dynamic applications.
 
+🌱 Currently, I’m diving deeper into Spring & Spring Boot for building scalable REST APIs, exploring Hibernate & JPA for database integration, and strengthening my DSA skills in Java to prepare for challenging problem-solving scenarios.
+
+💡 What drives me is the ability to transform ideas into clean, efficient, and impactful applications, while continuously learning and growing as a developer.
 **Currently focused on:** Spring Boot microservices and system design  
 **Based in:** India 🇮🇳  
 **Open to:** New opportunities and exciting collaborations
