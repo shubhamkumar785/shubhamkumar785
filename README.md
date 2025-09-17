@@ -1,14 +1,14 @@
 <div align="center">
 
-# Shubham Kumar
+# 🚀 Shubham Pathak | Developer | Learner | Builder  
 
-**Software Engineer** • **Java Developer** • **Problem Solver**
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff)
 
-*Crafting elegant solutions through clean code and thoughtful design*
+</div>
 
 ---
 
-</div>
+
 
 ## ✨ About Me
 
@@ -109,16 +109,23 @@ I'm passionate about building **scalable applications** and solving **complex pr
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity  
 
 <div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=vue&hide_border=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=vue&hide_border=true)
+
+<!-- Stats -->
+![Stats](https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+
+<!-- Languages -->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight&hide_border=true)  
+
+<!-- Streak -->
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumar785&theme=tokyonight&hide_border=true)  
+
+<!-- Contribution Snake -->
+![Snake animation](https://github.com/shubhamkumar785/shubhamkumar785/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
 
 ## 💡 Philosophy
 
@@ -132,18 +139,14 @@ I'm passionate about building **scalable applications** and solving **complex pr
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect  
 
 <div align="center">
 
-**Ready to build something amazing together?**
-
-[![Email](https://img.shields.io/badge/📧%20Email-shubhammpathak566@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhammpathak566@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-5a85032a6/)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-FF6B6B?style=flat-square&logoColor=white)](https://shubhamkumar785.github.io/Shubham-Portfolio/)
-[![LeetCode](https://img.shields.io/badge/💡%20LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/shubham_kumar_001/)
-
-*Always excited to learn, collaborate, and explore new opportunities in tech*
+[![Email](https://img.shields.io/badge/📧%20Email-shubhammpathak566@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhammpathak566@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-5a85032a6/)  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-FF6B6B?style=for-the-badge)](https://shubhamkumar785.github.io/Shubham-Portfolio/)  
+[![LeetCode](https://img.shields.io/badge/💡%20LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shubham_kumar_001/)  
 
 </div>
 
@@ -151,8 +154,9 @@ I'm passionate about building **scalable applications** and solving **complex pr
 
 <div align="center">
 
-**⭐ Thank you for visiting! ⭐**
+⭐ **Thank you for visiting!** ⭐  
+*"Every expert was once a beginner. Every pro was once an amateur."*  
 
-*"Every expert was once a beginner. Every pro was once an amateur."*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=150&section=footer)
 
 </div>
