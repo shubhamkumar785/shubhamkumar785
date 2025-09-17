@@ -71,38 +71,88 @@ I'm passionate about building **scalable applications** and solving **complex pr
 
 ---
 
-## 💻 Technical Expertise
+## 🚀 Core Technologies  
 
 <div align="center">
 
-### Core Technologies
-**Backend** → Java • Spring Boot • Python  
-**Frontend** → JavaScript • HTML5 • CSS3  
-**Database** → MySQL • Oracle • SQL  
+**Backend**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)  
 
-### Development Tools
-**IDE** → Eclipse • VS Code  • Notepad++ • jetBrain
-**Version Control** → Git • GitHub  
-**API Testing** → Postman  • openWeather API
-**Build Tools** → Maven • Web Dev
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
----
-
-### 📊 Data Structures & Algorithms (DSA)  
-- Arrays • Strings • Linked Lists • Stacks • Queues  
-- Trees • Graphs • HashMaps • Heaps • ArrayList  
-- Recursion • Divide & conquer Algorithm • Greedy Algorithms  
-- Problem Solving on **LeetCode • GeeksforGeeks • HackerRank**  
-
----
-### ⚡ Others  
-**Authentication** → JWT  
-**Testing** → JUnit   
-**Operating Systems** → Windows • Linux • Ubuntu
+**Database**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 </div>
 
 ---
+
+## 🛠️ Development Tools  
+
+<div align="center">
+
+**IDE**  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
+
+**Version Control**  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+**API Testing**  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
+
+**Build Tools**  
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) 
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  
+
+</div>
+
+---
+
+## 📊 Data Structures & Algorithms (DSA)  
+
+<div align="center">
+
+💡 **Mastered Concepts**  
+`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Graphs` • `HashMaps` • `Heaps` • `Tries`  
+
+⚡ **Problem Solving Techniques**  
+`Recursion` • `Divide & Conquer` • `Greedy` • `Dynamic Programming`  
+
+📚 **Platforms**  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shubham_kumar_001/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)  
+
+</div>
+
+---
+
+## ⚡ Others  
+
+<div align="center">
+
+**Authentication** → OAuth2 • JWT  
+**Testing** → JUnit • Mockito • Selenium  
+**Collaboration** → JIRA • Trello • Slack  
+**Operating Systems** → Windows • Linux • Ubuntu  
+
+</div>
+
 
 ## 🎯 Current Focus
 
