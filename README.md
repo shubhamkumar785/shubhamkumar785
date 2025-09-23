@@ -137,10 +137,10 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight&hide_border=true)  
 
 <!-- Streak -->
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumar785&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=shubhamkumar785&theme=tokyonight&hide_border=true)
 
 <!-- Contribution Snake -->
-![GitHub contributions](https://ghchart.rshah.org/?username=shubhamkumar785&bg_color=0d1117&color=39d353)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight)
 
 
 </div>
