@@ -131,17 +131,15 @@
 <div align="center">
 
 <!-- Stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight)
 
 <!-- Languages -->
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight&hide_border=true)  
 
 <!-- Streak -->
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=shubhamkumar785&theme=tokyonight&hide_border=true)
-
-<!-- Contribution Snake -->
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight)
-
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=shubhamkumar785&theme=tokyonight&hide_border=true)
+](https://github-readme-streak-stats.vercel.app/?user=shubhamkumar785&theme=tokyonight&hide_border=true
+)
 
 </div>
 
