@@ -62,12 +62,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 **API Testing**  
+![REST API](https://img.shields.io/badge/REST_API-007ACC?style=for-the-badge&logo=rest-api&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![OpenWeather API](https://img.shields.io/badge/OpenWeather_API-FFA500?style=for-the-badge&logo=cloud&logoColor=white)
 
 
 **Build Tools**  
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) 
+![Dynamic Web Project](https://img.shields.io/badge/Dynamic_Web_Project-4CAF50?style=for-the-badge&logo=web&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  
 
 </div>
