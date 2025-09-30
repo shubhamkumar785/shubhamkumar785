@@ -74,25 +74,6 @@
 
 ---
 
-## 📊 Data Structures & Algorithms (DSA)  
-
-<div align="center">
-
-💡 **Mastered Concepts**  
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Graphs` • `HashMaps` • `Heaps` • `ArrayList`  
-
-⚡ **Problem Solving Techniques**  
-`Recursion` • `Divide & Conquer` • `Greedy` • `Dynamic Programming`  
-
-📚 **Platforms**  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shubham_kumar_001/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)  
-
-</div>
-
----
-
 ## ⚡ Others  
 
 <div align="center">
