@@ -116,9 +116,7 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight&hide_border=true)  
 
 <!-- Streak -->
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=shubhamkumar785&theme=tokyonight&hide_border=true)
-](https://github-readme-streak-stats.vercel.app/?user=shubhamkumar785&theme=tokyonight&hide_border=true
-)
+![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumar785&theme=tokyo-night)
 
 </div>
 
