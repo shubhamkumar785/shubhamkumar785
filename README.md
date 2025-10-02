@@ -61,15 +61,6 @@
 
 ---
 
-## ⚡ Others  
-
-<div align="center">
-
-**Authentication** → JWT  
-**Testing** → JUnit   
-**Operating Systems** → Windows • Linux • Ubuntu  
-
-</div>
 
 
 ## 🎯 Current Focus
