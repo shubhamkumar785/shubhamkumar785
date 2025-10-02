@@ -60,29 +60,6 @@
 </div>
 
 ---
-
-
-
-## 🎯 Current Focus
-
-<div align="center">
-
-<pre>
-┌─────────────── 2025 Java Learning Path ───────────────┐
-│                                                       │
-│  ☕  Core Java (OOPs, Collections, Exception Handling) │
-│  🏗️  Advanced Java (JDBC, Servlets, JSP)              │
-│  🌐  Spring & Spring Boot (REST APIs, MVC)             │
-│  🗄️  Database Integration (MySQL, Hibernate, JPA)      │
-│  📊  System Design with Java                          │
-│  🧮  DSA in Java (LeetCode, Placement Prep)           │
-│                                                       │
-└───────────────────────────────────────────────────────┘
-</pre>
-
-</div>
-
----
 ## 📊 GitHub Activity  
 
 <div align="center">
