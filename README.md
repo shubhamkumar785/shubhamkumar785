@@ -10,7 +10,7 @@
 
 ## ✨ About Me
 
-🚀 My journey as a Java Developer started with mastering Core Java fundamentals — OOPs, collections, and exception handling. Over time, I expanded into Advanced Java with JDBC, Servlets, and JSP, which gave me the foundation to build dynamic applications.
+🚀 My journey as a Java Developer started with mastering Core Java fundamentals OOPs, collections, and exception handling. Over time, I expanded into Advanced Java with JDBC, Servlets, and JSP, which gave me the foundation to build dynamic applications.
 
 🌱 Currently, I’m diving deeper into Spring & Spring Boot for building scalable REST APIs, exploring Hibernate & JPA for database integration, and strengthening my DSA skills in Java to prepare for challenging problem-solving scenarios.
 
