@@ -96,7 +96,6 @@
 
 [![Email](https://img.shields.io/badge/%20Email-shubhammpathak566@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhammpathak566@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-5a85032a6/)  
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-FF6B6B?style=for-the-badge)](https://shubhamkumar785.github.io/Shubham-Portfolio/)  
 [![LeetCode](https://img.shields.io/badge/💡%20LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shubham_kumar_001/)  
 
 </div>
