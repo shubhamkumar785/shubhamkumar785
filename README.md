@@ -73,7 +73,9 @@
 
 <!-- Streak -->
 ![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumar785&theme=tokyo-night)
-
+<!-- LONGEST_STREAK_BADGE -->
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-%F0%9F%94%A5%20UNKNOWN-orange?style=for-the-badge&logo=github)
+<!-- /LONGEST_STREAK_BADGE -->
 </div>
 
 ## 💡 Philosophy
