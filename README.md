@@ -71,6 +71,12 @@
 <!-- Languages -->
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight&hide_border=true)  
 
+<!-- Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhamkumar785&label=Visitors&color=brightgreen&style=for-the-badge" />
+</p>
+
+
 <!-- Streak -->
 ![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumar785&theme=tokyo-night)
 <!-- LONGEST_STREAK_BADGE -->
