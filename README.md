@@ -70,7 +70,7 @@
 <div align="center">
 
 <!-- Stats -->
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 <!-- Languages -->
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight&hide_border=true)  
