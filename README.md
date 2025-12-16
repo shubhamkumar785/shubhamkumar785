@@ -80,6 +80,10 @@
   <img src="https://komarev.com/ghpvc/?username=shubhamkumar785&label=Visitors&color=brightgreen&style=for-the-badge" />
 </p>
 
+<!-- Followers -->
+![GitHub Followers](https://img.shields.io/github/followers/shubhamkumar785?label=Followers&style=for-the-badge&color=blue)
+
+
 
 <!-- Streak -->
 ![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumar785&theme=tokyo-night)
