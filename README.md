@@ -68,12 +68,7 @@
 ## 📊 GitHub Activity  
 
 <div align="center">
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight)
 
 
 <!-- Views -->
