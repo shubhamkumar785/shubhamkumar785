@@ -69,9 +69,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight&v=2025)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight&v=2025)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 <!-- Views -->
 <p align="center">
