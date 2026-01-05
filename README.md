@@ -79,15 +79,17 @@
 </p>
 
 <!-- Followers -->
+<p align="center">
 ![GitHub Followers](https://img.shields.io/github/followers/shubhamkumar785?label=Followers&style=for-the-badge&color=blue)
-
+</p>
 
 
 <!-- Streak -->
 ![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumar785&theme=tokyo-night&area=true)
 <!-- LONGEST_STREAK_BADGE -->
+<p align="center">
 ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-%F0%9F%94%A5%20UNKNOWN-orange?style=for-the-badge&logo=github)<!-- /LONGEST_STREAK_BADGE -->
-</div>
+</p>
 
 ## 💡 Philosophy
 
