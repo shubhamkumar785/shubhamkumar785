@@ -71,16 +71,17 @@
 ---
 ## 📊 GitHub Activity  
 
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamkumar785&label=Visitors&color=0e75b6&style=for-the-badge" />
-</p>
+<div align="center">
 
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">Java | Spring Boot | Backend Developer</h3>
 
----
+<!-- Views -->
+<img src="https://komarev.com/ghpvc/?username=shubhamkumar785&label=Visitors&color=brightgreen&style=for-the-badge" />
+
+
+<!-- Followers -->
+![GitHub Followers](https://img.shields.io/github/followers/shubhamkumar785?label=Followers&style=for-the-badge&color=blue)
+
+
 
 <!-- GITHUB STATS ROW -->
 <p align="center">
@@ -94,20 +95,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumar785&theme=tokyo-night&area=true)
 
 ---
-
-<!-- TOP LANGUAGES -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-<!-- STATS BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/github/stars/shubhamkumar785?style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/followers/shubhamkumar785?style=for-the-badge&color=blue" />
-</p>
-
 
 ## 💡 Philosophy
 
