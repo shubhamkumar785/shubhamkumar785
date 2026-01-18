@@ -82,6 +82,12 @@
 ![GitHub Followers](https://img.shields.io/github/followers/shubhamkumar785?label=Followers&style=for-the-badge&color=blue)
 
 
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight)
+
+<!-- Total Stars Earned -->
+![GitHub Stars](https://img.shields.io/github/stars/shubhamkumar785?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow)
+
 
 <!-- Streak -->
 ![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumar785&theme=tokyo-night&area=true)
