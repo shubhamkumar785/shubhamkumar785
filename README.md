@@ -81,7 +81,7 @@
 <!-- Followers -->
 ![GitHub Followers](https://img.shields.io/github/followers/shubhamkumar785?label=Followers&style=for-the-badge&color=blue)
 
-
+</div>
 
 <!-- GITHUB STATS ROW -->
 <p align="center">
