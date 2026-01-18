@@ -71,30 +71,43 @@
 ---
 ## 📊 GitHub Activity  
 
-<div align="center">
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhamkumar785&label=Visitors&color=0e75b6&style=for-the-badge" />
+</p>
 
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
+<h3 align="center">Java | Spring Boot | Backend Developer</h3>
 
-<!-- Views -->
-<img src="https://komarev.com/ghpvc/?username=shubhamkumar785&label=Visitors&color=brightgreen&style=for-the-badge" />
+---
 
+<!-- GITHUB STATS ROW -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumar785&theme=tokyonight" height="180"/>
+</p>
 
-<!-- Followers -->
-![GitHub Followers](https://img.shields.io/github/followers/shubhamkumar785?label=Followers&style=for-the-badge&color=blue)
+---
 
+<!-- ACTIVITY GRAPH -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumar785&theme=tokyo-night&area=true)
 
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight)
+---
 
-<!-- Total Stars Earned -->
-![GitHub Stars](https://img.shields.io/github/stars/shubhamkumar785?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow)
+<!-- TOP LANGUAGES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
+---
 
-<!-- Streak -->
-![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumar785&theme=tokyo-night&area=true)
-<!-- LONGEST_STREAK_BADGE -->
+<!-- STATS BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/shubhamkumar785?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/followers/shubhamkumar785?style=for-the-badge&color=blue" />
+</p>
 
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-%F0%9F%94%A5%20UNKNOWN-orange?style=for-the-badge&logo=github)<!-- /LONGEST_STREAK_BADGE -->
-</div>
 
 ## 💡 Philosophy
 
