@@ -15,10 +15,6 @@
 
 🚀 Java Developer with a strong foundation in Core Java, OOPs, collections, and exception handling. Experienced in Advanced Java technologies including JDBC, Servlets, and JSP.
 
-🌱 Currently focused on building scalable REST APIs using Spring & Spring Boot, working with Hibernate & JPA, and improving DSA skills in Java.
-
-💡 Passionate about writing clean, efficient code and turning ideas into impactful backend solutions.
-
 📍 India 🇮🇳 | 💼 Open to opportunities & collaborations
 
 
