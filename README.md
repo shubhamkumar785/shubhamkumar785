@@ -87,7 +87,15 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=dark&hide_border=true" />
+<div style="
+  border:2px solid #ffffff;
+  border-radius:12px;
+  padding:10px;
+  display:inline-block;
+  box-shadow:0 0 12px rgba(255,255,255,0.25);
+">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=dark" />
+</div>
 </p>
 ---
 
