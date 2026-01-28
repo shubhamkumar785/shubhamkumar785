@@ -86,6 +86,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight" height="180"/>
 </p>
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&langs_count=5&theme=default" />
+
 ---
 
 <!-- ACTIVITY GRAPH -->
