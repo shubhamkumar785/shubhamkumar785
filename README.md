@@ -86,18 +86,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamkumar785&show_icons=true&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-<div style="
-  border:2px solid #ffffff;
-  border-radius:12px;
-  padding:10px;
-  display:inline-block;
-  box-shadow:0 0 12px rgba(255,255,255,0.25);
-">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=dark" />
+<div align="center">
+  <span style="
+    border:2px solid #ffffff;
+    border-radius:12px;
+    padding:10px;
+    display:inline-block;
+    box-shadow:0 0 12px rgba(255,255,255,0.25);
+  ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar785&layout=compact&theme=dark" />
+  </span>
 </div>
-</p>
----
+
 
 <!-- ACTIVITY GRAPH -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumar785&theme=tokyo-night&area=true)
