@@ -13,7 +13,7 @@
 
 ## ✨ About Me
 
-🚀 Java Developer with a strong foundation in Core Java, OOPs, collections, and exception handling. Experienced in Advanced Java technologies including JDBC, Servlets, and JSP.
+🚀 Java Developer with a strong foundation in Core Java, OOPs, collections, and exception handling. Experienced in Advanced Java technologies including SpringBoot MVC.
 
 📍 India 🇮🇳 | 💼 Open to opportunities & collaborations
 
