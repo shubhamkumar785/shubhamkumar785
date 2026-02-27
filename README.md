@@ -21,8 +21,9 @@
 ---
 
 ## 🚀 Core Technologies  
+
+<h2 align="center">🎨 Frontend Technologies</h2>
 <div align="center">
-## 🎨 Frontend Technologies
 
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -35,8 +36,8 @@
 
 
 ---
+<h2 align="center">⚙️ Backend Technologies</h2>
 <div align="center">
-## ⚙️ Backend Technologies
 
 
 <img src="https://img.shields.io/badge/Java%208-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -50,8 +51,10 @@
 </div>
 ---
 
+
+<h2 align="center">🗄️ Databases</h2>
 <div align="center">
-## 🗄️ Databases
+
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -61,9 +64,10 @@
 </div>
 
 ---
-<div align="center">
-## ☁️ DevOps & Cloud
 
+<h2 align="center">☁️ DevOps & Cloud</h2>
+<div align="center">
+  
 <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
@@ -71,8 +75,8 @@
 
 ---
 
+<h2 align="center">🔌 APIs & Integration</h2>
 <div align="center">
-## 🔌 APIs & Integration
 
 <img src="https://img.shields.io/badge/REST%20API-007ACC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenWeather%20API-FFA500?style=for-the-badge"/>
@@ -81,8 +85,10 @@
 
 ---
 
+
+<h2 align="center">🛠️ Tools & IDEs</h2>
 <div align="center">
-## 🛠️ Tools & IDEs
+
 
 <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
