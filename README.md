@@ -1,5 +1,3 @@
-<h1 align="center">✨ Glad You're Here ✨</h1>
-
 <h1 align="center">SHUBHAM KUMAR</h1>
 
 <h3 align="center">Backend Engineer X Cloud Engineer</h3>
