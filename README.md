@@ -16,14 +16,12 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java" height="60" />
-<img src="https://skillicons.dev/icons?i=spring" height="60" />
-<img src="https://skillicons.dev/icons?i=aws" height="60" />
-<img src="https://skillicons.dev/icons?i=mysql" height="60" />
-<img src="https://skillicons.dev/icons?i=jsp" height="60" />
-<img src="https://skillicons.dev/icons?i=systemdesign" height="60" />
-<img src="https://skillicons.dev/icons?i=docker" height="60" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="60"/>
 
 </p>
 
