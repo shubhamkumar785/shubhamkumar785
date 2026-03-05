@@ -11,3 +11,23 @@
 </p>
 
 ---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java" height="60" />
+<img src="https://skillicons.dev/icons?i=spring" height="60" />
+<img src="https://skillicons.dev/icons?i=aws" height="60" />
+<img src="https://skillicons.dev/icons?i=mysql" height="60" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JSP-Java%20Server%20Pages-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-Architecture-blue?style=for-the-badge" />
+
+</p>
+
+---
